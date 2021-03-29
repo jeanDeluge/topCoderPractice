@@ -1,4 +1,6 @@
-class kiwiJuice{
+package KiwiJuice;
+
+public class KiwiJuicePractice {
 
 // capacities 2~50개의 요소가 있는 배열
 // bottles capacities와 같은 수의 요소가 있는 배열
